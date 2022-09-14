@@ -1,0 +1,63 @@
+.image {
+  height: 90vh;
+  width: 100%;
+}
+.banner {
+  margin: 0;
+  position: relative;
+}
+
+.book {
+  display: flex;
+  justify-content: space-between;
+  position: absolute;
+  top: 204px;
+  left: 886px;
+  box-shadow: -3px -1px 7px 8px #ffffff2e;
+  width: 350px;
+  /* height: 359px; */
+  border-radius: 23px;
+  /* background: url("../../img/img4.png");
+  background-position: center; */
+}
+.s {
+  margin: 3rem 0;
+}
+
+.leftBook div {
+  flex: 0.3;
+}
+.head {
+  background-color: #b4b4b4;
+  padding: 12px;
+  margin: 0;
+}
+
+.car {
+  background: url("https://images.unsplash.com/photo-1596367407372-96cb88503db6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8d2hpdGV8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60");
+  background-position: center;
+  border-radius: 23px;
+  margin: 0;
+}
+
+.leftBook div img {
+  width: 100%;
+  height: max-content;
+}
+.btnn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.btnn a {
+  text-decoration: none;
+  background-color: #b4b4b4;
+
+  border-radius: 48px;
+  background-color: #b4b4b4;
+  text-align: center;
+
+  width: 206px;
+  padding: 12px 0;
+  /* height: 44px; */
+}

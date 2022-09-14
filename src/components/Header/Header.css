@@ -1,0 +1,13 @@
+.c {
+  font-family: "Julius Sans One", sans-serif;
+  /* line-height: 17.46px; */
+  /* font-size: 16px; */
+}
+.header {
+  /* height: 10vh; */
+  width: 100%;
+}
+.h {
+  z-index: 999;
+  margin-bottom: 0;
+}

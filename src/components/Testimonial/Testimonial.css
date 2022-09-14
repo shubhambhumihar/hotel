@@ -1,0 +1,37 @@
+.testimonial {
+  margin-top: 18rem;
+}
+.testimonial h3 {
+  font-size: 36px;
+  line-height: 33.12px;
+}
+.testimonial p {
+  text-align: center;
+  font-size: 20px;
+  line-height: 27.82px;
+}
+.test {
+  display: flex;
+  justify-content: space-between;
+  background-color: white;
+  width: 354.31px;
+  height: 205px;
+  align-items: center;
+}
+
+.test img {
+  width: 162.76px;
+  height: 164px;
+  border-radius: 50%;
+}
+.test-info {
+  margin-left: 1rem;
+}
+.test-info p {
+  text-align: left;
+}
+
+.test-info div {
+  display: flex;
+  justify-content: space-between;
+}

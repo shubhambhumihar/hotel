@@ -1,0 +1,32 @@
+.container,
+.container-fluid,
+.container-lg,
+.container-md,
+.container-sm,
+.container-xl,
+.container-xxl {
+  margin: 0;
+  padding: 0;
+}
+.gallery {
+  /* border: 1px solid red; */
+  width: 100%;
+}
+.galleryImg {
+  margin: 2rem 0;
+}
+.galleryInfo {
+  margin: 3rem 0;
+}
+.galleryInfo h3 {
+  font-size: 3rem;
+  text-align: center;
+  font-weight: bold;
+  color: #000000;
+  padding: 1rem;
+}
+
+.rowww {
+  /* border: 1px solid red; */
+  width: 100%;
+}
