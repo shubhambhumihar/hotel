@@ -5,7 +5,7 @@ import Col from "react-bootstrap/Col";
 import "./Section.css";
 import img2 from "../../img/img2.png";
 import img3 from "../../img/img3.png";
-import img4 from "../../img/img4.png";
+import img4 from "../../img/ab.png";
 import img5 from "../../img/img5.png";
 import Testimonial from "../Testimonial/Testimonial";
 

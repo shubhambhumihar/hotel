@@ -1,0 +1,76 @@
+.contacImg {
+  width: 100%;
+}
+.contact {
+  padding-bottom: 7rem;
+}
+.contactDiv {
+  width: 50%;
+  margin: 6rem auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1rem 5rem;
+  border: 2px solid lightgray;
+  border-radius: 20px;
+}
+
+.contactDiv h1 {
+  font-size: 2rem;
+  font-weight: 500;
+  background-color: #121212;
+  color: white;
+  padding: 1rem 7rem;
+  border-radius: 20px;
+}
+.formBtn {
+  padding: 1rem 6rem !important;
+  background-color: black !important;
+  margin: 3rem 0 !important;
+  color: whitesmoke !important;
+}
+.contactImage {
+  display: flex;
+}
+.contactImage div {
+  width: 33.33%;
+}
+.contactImage div img {
+  width: 100%;
+}
+.social {
+  width: 50%;
+  margin: 2rem auto;
+  display: flex;
+  justify-content: center;
+}
+
+.social span {
+  padding: 1rem;
+  width: 7rem;
+  cursor: pointer;
+}
+.social span img {
+  padding: 1rem;
+  width: 100%;
+}
+.contactInfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.contactInfo div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  align-items: center;
+}
+.contactInfo div p {
+  margin-right: 2rem;
+}
+
+.contactBold {
+  font-weight: bolder;
+}

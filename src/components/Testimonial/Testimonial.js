@@ -5,7 +5,7 @@ import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import img2 from "../../img/img2.png";
 import img3 from "../../img/img3.png";
-import img4 from "../../img/img4.png";
+import img4 from "../../img/ab.png";
 import img5 from "../../img/img5.png";
 
 function Testimonial() {
