@@ -9,6 +9,7 @@ import wf from "../../img/wf.png";
 import wl from "../../img/wl.png";
 import wi from "../../img/wi.png";
 import wy from "../../img/wy.png";
+import { Link } from "react-router-dom";
 
 function Footer() {
   return (
@@ -43,7 +44,13 @@ function Footer() {
             </div>
             <div>
               <p>Terms and Conditions</p>
-              <p>Privacy Policy</p>
+              <Link
+                to="privacy"
+                style={{ textDecoration: "none", color: "inherit" }}
+              >
+                <p>Privacy Policy</p>
+              </Link>
+
               <p>Data Deletion Protocol</p>
             </div>
           </Col>
